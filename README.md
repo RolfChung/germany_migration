@@ -6,6 +6,12 @@ matplotlib, and folium. This project is part of the IBM Data Science certificati
 </p> 
 
 <p>
+Unfortunately Folium does not show on GitHub, but is displayed with nbviewer:
+<a href="https://nbviewer.jupyter.org/github/RolfChung/germany_migration/blob/master/migration_germany.ipynb" target="_blank">project on nbviewer</a> 
+</p> 
+
+
+<p>
 Dataset Source: 
 <a href="https://www.un.org/en/development/desa/population/migration/data/index.asp" target="_blank">International migration flows to and from selected countries - United Nations</a> 
     
